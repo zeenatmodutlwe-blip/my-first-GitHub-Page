@@ -1,5 +1,5 @@
 body {
-  font-family:IMPACT;
+  font-family:Times New Roman;
   color:#333;
   background-color:lightgrey;
   margin:0;
@@ -15,12 +15,12 @@ header {
 }
 header h1 {
   margin:0;
-  font-family:ALGERIAN;
+  font-family:IMPACT;
   text-align:centre;
 }
 header h2 {
   margin:0;
-  font-family:ALGERIAN;
+  font-family:IMPACT;
   text-align:centre;
 }
 nav a { 
