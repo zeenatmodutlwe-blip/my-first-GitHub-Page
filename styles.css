@@ -1,5 +1,5 @@
 body {
-  font-family:dancing script;
+  font-family:ALGERIAN;
   color:#333;
   background-color:lightgrey;
   margin:0;
@@ -11,11 +11,11 @@ header {
   color:white;
   padding:20px
   text-align:centre;
-  font-family:dancing script;
+  font-family:ALGERIAN;
 }
 header h1 {
   margin:0;
-  font-family:dancing script;
+  font-family:ALGERIAN;
 }
 nav a { 
   color:white;
