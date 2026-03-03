@@ -11,9 +11,11 @@ header {
   color:white;
   padding:20px
   text-align:centre;
+  font-family:dancing script;
 }
 header h1 {
   margin:0;
+  font-family:dancing script;
 }
 nav a { 
   color:white;
