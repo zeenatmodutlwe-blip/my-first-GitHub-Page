@@ -1,5 +1,5 @@
 body {
-  font-family:cavolini;
+  font-family:Lucida console;
   color:#333;
   background-color:lightgrey;
   margin:0;
@@ -19,6 +19,11 @@ header h1 {
   text-align:centre;
 }
 header h2 {
+  margin:0;
+  
+  text-align:centre;
+}
+header h3{
   margin:0;
   
   text-align:centre;
