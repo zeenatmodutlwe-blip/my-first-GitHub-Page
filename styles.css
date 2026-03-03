@@ -11,24 +11,18 @@ header {
   color:white;
   padding:20px
   text-align:centre;
-  font-family:ALGERIAN;
+ 
 }
 header h1 {
   margin:0;
-  
+  font-family:ALGERIAN;
   text-align:centre;
 }
 header h2 {
   margin:0;
-  
+  font-family:ALGERIAN;
   text-align:centre;
 }
-header h3{
-  margin:0;
-  
-  text-align:centre;
-}
-
 nav a { 
   color:white;
   text-decoration:none;
